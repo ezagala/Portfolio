@@ -1,0 +1,38 @@
+header {
+    border-style: solid;
+    border-width: 1px; 
+}
+
+.main {
+    margin-top: 2.5%; 
+    margin-bottom: 2.5%;
+}
+
+#profilePic {
+    float: left; 
+    margin-right: 1em; 
+    border-radius: 10%
+}
+
+div {
+    border-style: dashed; 
+    border-width: 1px; 
+}
+
+#contactLink {
+    list-style-type: none;
+    float: left; 
+    
+}
+
+/* footer {
+    position: fixed; 
+    bottom: 0%; 
+    right: 0%; 
+    left: 0%; 
+    text-align: center;
+    padding: 1em 5em; 
+    margin-top: 2.5%;
+    border-style: dashed; 
+    border-width: 1px; 
+} */

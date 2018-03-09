@@ -5,3 +5,7 @@
 .footer {
     background-color: #f1f1f1; 
 }
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: coral; 
+}
